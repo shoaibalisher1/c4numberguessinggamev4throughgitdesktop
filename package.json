@@ -1,6 +1,6 @@
 {
   "name": "c4numberguessinggamev4throughgitdesktop",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "c4 numberguessinggamev4 through git desktop",
   "main": "index.js",
   "type": "module",
